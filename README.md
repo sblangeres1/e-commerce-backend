@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Description
 For this project we have to create the backend for an ecommerce site. We create a database using sequelize.
